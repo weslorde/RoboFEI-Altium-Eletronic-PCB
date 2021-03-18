@@ -1,0 +1,14 @@
+Record=DiagramHierarchy|SourceDocument=MAIN_Mult.MbsDoc|Kind=Multi-board Schematic Module|Designator=6|Source=Conjunto Main\Bloco Motor Rev A\Bloco Motor.PrjPcb
+Record=SubProject|SourceDocument=MAIN_Mult.MbsDoc|ProjectPath=Conjunto Main\Bloco Motor Rev A\Bloco Motor.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MAIN_Mult.MbsDoc|Kind=Multi-board Schematic Module|Designator=5|Source=Conjunto Main\Bloco Motor Rev A\Bloco Motor.PrjPcb
+Record=SubProject|SourceDocument=MAIN_Mult.MbsDoc|ProjectPath=Conjunto Main\Bloco Motor Rev A\Bloco Motor.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MAIN_Mult.MbsDoc|Kind=Multi-board Schematic Module|Designator=4|Source=Conjunto Main\Bloco Motor Rev A\Bloco Motor.PrjPcb
+Record=SubProject|SourceDocument=MAIN_Mult.MbsDoc|ProjectPath=Conjunto Main\Bloco Motor Rev A\Bloco Motor.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MAIN_Mult.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=Conjunto Main\Bloco Motor Rev A\Bloco Motor.PrjPcb
+Record=SubProject|SourceDocument=MAIN_Mult.MbsDoc|ProjectPath=Conjunto Main\Bloco Motor Rev A\Bloco Motor.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MAIN_Mult.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=Conjunto Main\Bloco Motor Rev A\Bloco Motor.PrjPcb
+Record=SubProject|SourceDocument=MAIN_Mult.MbsDoc|ProjectPath=Conjunto Main\Bloco Motor Rev A\Bloco Motor.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MAIN_Mult.MbsDoc|Kind=Multi-board Schematic Module|Designator=7|Source=Conjunto Main\Main Rev D\Main Nova.PrjPcb
+Record=SubProject|SourceDocument=MAIN_Mult.MbsDoc|ProjectPath=Conjunto Main\Main Rev D\Main Nova.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MAIN_Mult.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=Kick Rev C\Kick_Board_FinalV1.PrjPcb
+Record=SubProject|SourceDocument=MAIN_Mult.MbsDoc|ProjectPath=Kick Rev C\Kick_Board_FinalV1.PrjPcb
